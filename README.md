@@ -1,4 +1,4 @@
-# Web-Scraping---Analyze-Audiojungle.net
+# Web-Scraping - Analyze-Audiojungle.net
 
  Data analysis of website audiojungle.net using R. As a result to make reccomendations for authors and answer questions:
 1. What tags to write during uploading a new track? 
